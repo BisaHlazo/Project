@@ -1,5 +1,7 @@
 body {
   font-family: arial, sans-serif;
+  padding: auto;
+  margin-top: 4px;
 }
 
 h1 {
